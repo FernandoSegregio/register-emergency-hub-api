@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full max-w-2xl bg-white rounded-2xl shadow-lg p-8">
+  <div class="w-full max-w-3xl bg-white rounded-2xl shadow-lg p-8">
     <div class="mb-8 text-center">
       <h1 class="text-3xl font-bold text-gray-900">Cadastro de Aplicativo</h1>
       <p class="mt-2 text-gray-500">Registre seu aplicativo para utilizar a API do Hub de Emergências Zona da Mata</p>

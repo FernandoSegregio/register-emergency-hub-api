@@ -1,9 +1,3 @@
 <template>
-  <div class="min-h-screen bg-gray-50 flex items-center justify-center py-12 px-4">
-    <RegistrationForm />
-  </div>
+  <RouterView />
 </template>
-
-<script setup lang="ts">
-import RegistrationForm from './components/RegistrationForm.vue'
-</script>
